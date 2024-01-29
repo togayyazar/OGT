@@ -1,2 +1,2 @@
 # OGT
-![plot](/home/togay/PycharmProjects/ProcessingCorpus/figures/new_figures/mucibince-geregince.png)
+![mucibince-geregince](https://github.com/togayyazar/OGT/assets/36377584/be987ad3-01f6-4547-ba0c-d99c6371560b)
